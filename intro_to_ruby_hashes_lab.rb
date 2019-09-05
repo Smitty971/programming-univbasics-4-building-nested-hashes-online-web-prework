@@ -12,7 +12,9 @@ end
 
 def monopoly_with_third_tier
   
-  monopoly = {railroads: 
+  monopoly = {
+    
+    railroads: 
     {
     pieces: 4, 
     rent_in_dollars: 
@@ -29,6 +31,7 @@ def monopoly_with_third_tier
         
       }
   }
+  binding.pry 
 end
 
 def monopoly_with_fourth_tier
