@@ -33,7 +33,8 @@ def monopoly_with_third_tier
         
       }
   }
-  binding.pry 
+  }
+  #binding.pry 
 end
 
 def monopoly_with_fourth_tier
