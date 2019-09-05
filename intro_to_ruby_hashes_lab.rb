@@ -1,3 +1,4 @@
+require "pry"
 def base_hash
 	monopoly = {railroads:
 	{}
